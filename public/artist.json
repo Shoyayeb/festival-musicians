@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name": "ColdPlay",
+        "price": 1200,
+        "Age": 34,
+        "genre": "British Rock Band",
+        "members": 5,
+        "social": {
+            "youtube": "https://www.youtube.com/user/ColdplayVEVO",
+            "twitter": "https://twitter.com/coldplay"
+        },
+        "img": "https://www.bing.com/th?id=ALSTU57E3DC997CA7F405E395AA6C5971163F6D4DA2691A0702E4BD15F388EBFBA37D&w=384&h=228&rs=2&o=6&oif=webp&pid=SANGAM"
+    },
+    {
+        "id": 2,
+        "name": "Nirvana",
+        "price": 3650,
+        "Age": 55,
+        "genre": "American Rock Band",
+        "members": 5,
+        "social": {
+            "youtube": "https://www.youtube.com/user/nirvana",
+            "twitter": "https://twitter.com/nirvana"
+        },
+        "img": "https://th.bing.com/th/id/R.a497e85382ac7f16ba90fe1fc49238a1?rik=h4u71YxGnspHKw&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 3,
+        "name": "Green Day",
+        "price": 5500,
+        "Age": 66,
+        "genre": "American Rock Band",
+        "members": 5,
+        "social": {
+            "youtube": "https://www.youtube.com/user/greenday",
+            "twitter": "https://twitter.com/greenday"
+        },
+        "img": "https://th.bing.com/th/id/R.fab6d56be39213ebd9ea4b2023e80307?rik=YO1g2uT4yoD1Sg&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 4,
+        "name": "ColdPlay",
+        "price": 1200,
+        "Age": 34,
+        "genre": "British Rock Band",
+        "members": 5,
+        "social": {
+            "youtube": "https://www.youtube.com/user/ColdplayVEVO",
+            "twitter": "https://twitter.com/coldplay"
+        },
+        "img": "https://www.bing.com/th?id=ALSTU57E3DC997CA7F405E395AA6C5971163F6D4DA2691A0702E4BD15F388EBFBA37D&w=384&h=228&rs=2&o=6&oif=webp&pid=SANGAM"
+    }
+]
