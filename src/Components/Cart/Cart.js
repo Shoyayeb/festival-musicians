@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Minicard from '../Minicard/Minicard';
 import Card from './../Card/Card';
 
 const Cart = () => {
@@ -13,7 +14,6 @@ const Cart = () => {
             .then(res => res.json())
             .then(data => setmusicians(data))
     })
-
 
     return (
 
@@ -32,6 +32,11 @@ const Cart = () => {
 
                 <div className="">
                     <h3>Total added: {artistAdd.length}</h3>
+                    {
+                        artistAdd.map(miniArtist => <Minicard
+                            key={miniArtist.id}
+                            miniArtist={miniArtist} />)
+                    }
                 </div>
             </div>
         </div>
