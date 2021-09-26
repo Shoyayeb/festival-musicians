@@ -1,3 +1,10 @@
 .card {
-    width: 18rem
+    width: 18rem;
+}
+.fa-twitter {
+    font-size: 26px;
+}
+.fa-youtube {
+    font-size: 26px;
+    color: red;
 }

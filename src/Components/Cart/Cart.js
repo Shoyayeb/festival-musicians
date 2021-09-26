@@ -2,26 +2,27 @@ import React, { useEffect, useState } from 'react';
 import Card from './../Card/Card';
 
 const Cart = () => {
-    const [artists, setArtists] = useState([]);
+    const [musicians, setmusicians] = useState([]);
     useEffect(() => {
         fetch("./artist.json")
             .then(res => res.json())
-            .then(data => setArtists(data))
+            .then(data => setmusicians(data))
     })
     return (
         <div>
-            <div className="cart-container">
-                <div className="artists-container">
-                    <h3>Artists found: {artists.length} </h3>
+            <h3>Musician found: {musicians.length} </h3>
+
+            <div className=" d-flex">
+                <div className="d-flex flex-wrap gap-md-5">
                     {
-                        artists.map(artist => <Card
-                            key={artist.key}
+                        musicians.map(artist => <Card
+                            key={artist.id}
                             artist={artist} />)
                     }
                 </div>
 
                 <div className="cart-container">
-
+                    <h3>Total added: </h3>
                 </div>
             </div>
         </div>

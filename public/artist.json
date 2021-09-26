@@ -40,15 +40,106 @@
     },
     {
         "id": 4,
-        "name": "ColdPlay",
-        "price": 1200,
+        "name": "Metalica",
+        "price": 7890,
+        "Age": 66,
+        "genre": "American Heavy Metal Band",
+        "members": 8,
+        "social": {
+            "youtube": "https://www.youtube.com/user/metalica",
+            "twitter": "https://twitter.com/metalica"
+        },
+        "img": "https://th.bing.com/th/id/R.82dff12d8c6b37de833f24e7c86c1a91?rik=WSO1J1VFM9wqwg&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 5,
+        "name": "Artcell",
+        "price": 8800,
+        "Age": 53,
+        "genre": "Bangladeshi progressive metal band",
+        "members": 3,
+        "social": {
+            "youtube": "https://www.youtube.com/user/artcell",
+            "twitter": "https://twitter.com/artcell"
+        },
+        "img": "https://th.bing.com/th/id/OIP.ZBPYaMjVGxgQNvvkni3dXQHaFE?pid=ImgDet&rs=1"
+    },
+    {
+        "id": 6,
+        "name": "Miles",
+        "price": 2460,
+        "Age": 56,
+        "genre": "Bangladeshi Rock Band",
+        "members": 8,
+        "social": {
+            "youtube": "https://www.youtube.com/user/miles",
+            "twitter": "https://twitter.com/miles"
+        },
+        "img": "https://th.bing.com/th/id/R.038a8b5f5d186bc3672026b0ce36769c?rik=sty8MpmlYvw55Q&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 7,
+        "name": "Bon Jovi",
+        "price": 5000,
+        "Age": 78,
+        "genre": "American Rock Band",
+        "members": 10,
+        "social": {
+            "youtube": "https://www.youtube.com/user/bonjovi",
+            "twitter": "https://twitter.com/bonjovi"
+        },
+        "img": "https://th.bing.com/th/id/OIP.PBaVk-QudWG2TYx2Is2GtAHaFm?pid=ImgDet&rs=1"
+    },
+    {
+        "id": 8,
+        "name": "Jhankar Mahbub",
+        "price": 8800,
         "Age": 34,
-        "genre": "British Rock Band",
+        "genre": "Bangladeshi Rapper",
+        "members": 1,
+        "social": {
+            "youtube": "https://www.youtube.com/user/jhankarmahbub",
+            "twitter": "https://twitter.com/jhankarmahbub"
+        },
+        "img": "https://github.com/Shoyayeb/test/blob/main/R.jpg?raw=true"
+    },
+    {
+        "id": 9,
+        "name": "Linkin Park",
+        "price": 15000,
+        "Age": 30,
+        "genre": "American Rock Band",
+        "members": 7,
+        "social": {
+            "youtube": "https://www.youtube.com/user/linkinpark",
+            "twitter": "https://twitter.com/linkinpark"
+        },
+        "img": "https://th.bing.com/th/id/R.29a2a509fdae72c30dec581a634a1b45?rik=mlPchxCb%2fUrU%2fQ&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 10,
+        "name": "Maroon 5",
+        "price": 7600,
+        "Age": 26,
+        "genre": "American pop rock band",
         "members": 5,
         "social": {
-            "youtube": "https://www.youtube.com/user/ColdplayVEVO",
-            "twitter": "https://twitter.com/coldplay"
+            "youtube": "https://www.youtube.com/user/maroon5",
+            "twitter": "https://twitter.com/maroon5"
         },
-        "img": "https://www.bing.com/th?id=ALSTU57E3DC997CA7F405E395AA6C5971163F6D4DA2691A0702E4BD15F388EBFBA37D&w=384&h=228&rs=2&o=6&oif=webp&pid=SANGAM"
+        "img": "https://th.bing.com/th/id/R.2d47e319dffe9202c881b40a7e7f5ed9?rik=O7HPy1oNYawq3Q&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 11,
+        "name": "Jalali Set",
+        "price": 1580,
+        "Age": 29,
+        "genre": "Bangladeshi Rapper Group",
+        "members": 4,
+        "social": {
+            "youtube": "https://www.youtube.com/user/jalaliset",
+            "twitter": "https://twitter.com/jalaliset"
+        },
+        "img": "https://th.bing.com/th/id/R.37877e220b589d5db181f7bfb44c9163?rik=jfpLkacAU9ebcA&pid=ImgRaw&r=0"
     }
 ]
