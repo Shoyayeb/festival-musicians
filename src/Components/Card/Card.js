@@ -23,7 +23,7 @@ const Card = (props) => {
                 </a>
             </div>
             <div className="card-footer d-grid">
-                <button className="btn btn-lg btn-dark ">Add To Concert</button>
+                <button onClick={() => props.artistAdd(props.artist)} className="btn btn-lg btn-dark ">Add To Concert</button>
             </div>
         </div >
     );
